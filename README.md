@@ -1,4 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
+## NAME: Vishal S
+## REGISTER NUMBER: 212223110063
 
 ## Aim: 
 To perform a study on Socket Programming
